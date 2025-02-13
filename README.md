@@ -1,6 +1,10 @@
 # hnews
 Download HackerNews Post as JSON
 
+## API Reference
+
+https://github.com/HackerNews/API
+
 ## Installation
 To install the tool locally, run:
 ```bash
